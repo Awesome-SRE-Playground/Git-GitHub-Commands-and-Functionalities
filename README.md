@@ -55,26 +55,3 @@
 | Releases             | Tag and package software versions                |
 | GitHub Pages         | Host static sites from repo                      |
 | Wikis                | In-repo documentation space                      |
-
-##  Security & Access
-| Concept              | Description                                       |
-|----------------------|---------------------------------------------------|
-| `.gitignore`         | Specify files Git should ignore                  |
-| SSH Keys             | Secure authentication for GitHub                |
-| GPG Signatures       | Verify commit authenticity                       |
-| Protected Branches   | Prevent force-pushes or unreviewed merges       |
-| Personal Access Tokens (PAT) | API and Git access                     |
-| Secrets (in Actions) | Secure variables for workflows                  |
-
-##  Advanced Topics
-| Topic              | Description                                         |
-|--------------------|-----------------------------------------------------|
-| Submodules         | Link to other repos inside a repo                  |
-| Hooks              | Custom scripts that trigger at Git lifecycle events|
-| Git Bisect         | Binary search to find bug-causing commit          |
-| Git Worktree       | Multiple working directories from the same repo   |
-| Reflog             | Log of where HEAD and branches have been          |
-| Squash             | Combine multiple commits into one                 |
-| Tagging            | Mark specific points (e.g., v1.0.0)               |
-| Blame              | See line-by-line author history                   |
-| Archive            | Create zip/tar of a repo snapshot                 |
