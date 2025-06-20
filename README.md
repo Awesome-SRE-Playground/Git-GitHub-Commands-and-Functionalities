@@ -58,7 +58,7 @@
 | `git push origin --tags`             | Push all tags to remote |
 | `.gitignore`                         | Specify files Git should ignore |
 
-## 🧪 Collaboration & GitHub-Specific
+## Collaboration & GitHub-Specific
 | Concept              | Description                                       |
 |----------------------|---------------------------------------------------|
 | Fork                 | Create your own copy of a repo                   |
@@ -99,6 +99,6 @@
 
 
 
-## 👨‍💻 Author
+## Author
 
 [Hashtech Innovations](https://hashtechinnovations.in)
