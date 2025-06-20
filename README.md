@@ -77,7 +77,7 @@
 ## Security & Access
 | Concept              | Description                                       |
 |----------------------|---------------------------------------------------|
-| `.gitignore`         | Specify files Git should ignore                  |
+| Git Ignore           | Specify files Git should ignore                  |
 | SSH Keys             | Secure authentication for GitHub                |
 | GPG Signatures       | Verify commit authenticity                       |
 | Protected Branches   | Prevent force-pushes or unreviewed merges       |
