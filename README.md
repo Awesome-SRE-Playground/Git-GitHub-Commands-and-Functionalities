@@ -1,5 +1,4 @@
-# Git & GitHub Functionalities Reference
-
+# Git & GitHub Commands
 ## Git Basics
 | Command        | Description                                           |
 |----------------|-------------------------------------------------------|
